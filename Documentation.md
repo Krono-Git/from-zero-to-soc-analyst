@@ -1,5 +1,6 @@
 <details>
 <summary>🕵️ APT Investigation: Lazarus Group - Operation Troy</summary>
+  
 ![Lazarus APT Cover](Lazarus%20APT%20Cover%20Art.png)
   
 **Lazarus** is one of the many names given to a criminal hacking group likely associated with the North Korean government. You may also see them referred to as **"Hidden Cobra"**, a name used by the U.S. Department of Homeland Security to categorize malicious cyber activity attributed to North Korea.

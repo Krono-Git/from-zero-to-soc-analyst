@@ -44,4 +44,5 @@ Studying APTs is valuable because their **tactics, techniques, and procedures (T
 
 Thanks for reading.
 
+> Mitre ATT&CK - Lazarus Group: https://attack.mitre.org/groups/G0032/
 </details>

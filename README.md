@@ -3,6 +3,8 @@
 Hello! My name in jonathan and this is where I document my journey into cybersecurity. I'm currently focused on becoming a blue team specialist,
 and this repo outlines my learning path, hands-on experience, and the steps I took to earn my first cybersecurity certification: **SAL1 (Security Analyst Level 1) by TryHackMe**
 
+Extra links.
+Credley Profile: https://www.credly.com/users/jonathan-siganofff/edit#credly
 ---
 
 ## Why Cybersecurity?

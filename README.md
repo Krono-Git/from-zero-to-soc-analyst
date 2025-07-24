@@ -13,7 +13,7 @@ And i haven't looked back since!
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 I started with:
 - learning the **basics** of cybersecurity, **Common threats and vulnerabilities**, Popular viruses and how they worked like the **WannaCry** Virus.
@@ -26,7 +26,7 @@ of how Penetration Testers and Attackers operate, The tools they use, And the ch
 
 ---
 
-## 📚 Learning Tools I Used
+## Learning Tools I Used
 
 | **TryHackMe** | Core learning platform (SOC Level 1 path) |
 
@@ -42,7 +42,7 @@ of how Penetration Testers and Attackers operate, The tools they use, And the ch
 
 ---
 
-## 🧪 Labs, Rooms, and Writeups
+## Labs, Rooms, and Writeups
 
 I completed dozens of labs and SOC simulations. Some highlights:
 - [x] **Servidae: Log Analysis in ELK**
@@ -74,10 +74,10 @@ I completed dozens of labs and SOC simulations. Some highlights:
 
 ## 🎯 What’s Next?
 
-- 🔐 Studying for Security+ (V7) By CompTIA
-- 💡 Learning more about threat hunting and detection engineering
-- 📘 Continued Documentation of my journey through cybersecurity
-- 🔎 Building detection rules and Sigma queries
+-  Studying for Security+ (V7) By CompTIA
+-  Learning more about threat hunting and detection engineering
+-  Continued Documentation of my journey through cybersecurity
+-  Building detection rules and Sigma queries
 
 ---
 

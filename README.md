@@ -49,7 +49,7 @@ I completed dozens of labs and SOC simulations. Some highlights:
 - [x] **Compromised Windows Analysis**
 - [x] **SOC Level 1: Final Simulation**
 - [x] **BoogeyMan 1-3** - Splunk Investigation
-- [ ] (More writeups coming soon)
+- Checkout my blog where i post more of my writeups! | https://medium.com/@johnathonsiganoff12
 
 ---
 
